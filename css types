@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Resume</title>
+
+<STYLE>
+
+table {
+
+border: 1px solid black;
+
+}
+
+td {
+
+padding: 2px;
+
+border: 1px solid black;
+
+}
+
+</STYLE>
+
+</head>
+
+<body>
+
+<div class="stuff" >
+
+<h1 align="center">Resume</h1>
+
+<h2 align="center">KAAVIYA HARANI</h2>
+
+<h4 align="center">GRADUTE TRAINEE</h4>
+
+<hr />
+
+<br>
+
+<b>
+
+<p class="head">About Me</p>
+
+</b>
+
+<p>A Trustworthy and faithful person. Seeking a challenging career with a progressive organization that
+
+provides an opportunity to capitalize my technical skills and abilities
+
+in the field of Computer Science. Currently pursuing my Third year of Bachelor
+
+of Engineering in Computer Science </p>
+
+<b>
+
+<p class="head">Skills</p>
+
+</b>
+
+<ul>
+
+<li>Completed C,C++,Java, Database with A grade</li>
+
+<li>Well good in Python and hacking.</li>
+
+<li>Good leadership skills</li>
+
+<li>Sorting out problems in a easy manner</li>
+
+<li>Quick learner</li>
+
+</ul>
+
+<b>
+
+<p class="head">Educational Qualifications</p>
+
+</b>
+
+<table>
+
+<tr id="heading">
+
+<td>Qualification</td>
+
+<td>Percentage</td>
+
+<td>Year</td>
+
+</tr>
+
+<tr>
+
+<td>10</td>
+
+<td>93</td>
+
+<td>2016</td>
+
+</tr>
+
+<tr>
+
+<td>Diploma</td>
+
+<td>82</td>
+
+<td>2018</td>
+
+</tr>
+
+<tr>
+
+<td>BE</td>
+
+<td>7.9</td>
+
+<td>2022</td>
+
+</tr>
+
+</table>
+
+<b>
+
+<p class="head">Projects</p>
+
+</b>
+
+<ul>
+
+</ul>
+
+Our BLACK BOX project is selected in RE research and development team of KCT. Myself playing a team assistant lead role and it’s yet to complete in 2 months.The black box will succor for women at times of any assault attempted by the cab drivers. It was developed in a vision to make night work life for women a tad safer.
+
+Developed and completed a project Mobile application for Placement tracking using Eclipse and SQLite.
+
+<b>
+
+<p class="head">Interests</p>
+
+</b>
+
+<ul>
+
+<li>Drawing</li>
+
+<li>Gardening</li>
+
+<li>Design</li>
+
+<li>Programming</li>
+
+<li>Computer Science</li>
+
+</ul>
+
+<b>
+
+<p class="head">Leadership Roles</p>
+
+</b>
+
+<ul>
+
+<li>Yoga Trainer for AGAM |2019-2020(A Platform for Yoga and Personal Development) </li>
+
+<li>Team Lead at Career Guidance Forum of Young Ones| August 2020 - August 2021</li>
+
+<li>One of the organizers serves as a mentor for this Hackathon - Servathon.</li>
+
+<li>Joint Treasurer for Rotaract Club of KCT. | June 2020 - June 2021</li>
+
+<li> Brigade Leader in Ignite'20. One of the Organizers of State Level Yoga Championship.</li>
+
+</ul>
+
+</body>
+
+</html>
+
+OUTPUT:
